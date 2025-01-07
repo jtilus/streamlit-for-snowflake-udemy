@@ -7,6 +7,7 @@ venv/
 *.spec
 *.conf
 *.zip
+.DS_Store
 
 **/lib/
 **/__pycache__
